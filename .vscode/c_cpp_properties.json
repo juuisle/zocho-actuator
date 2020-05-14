@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/juuisle/esp/esp-idf/**",
+                "/Users/juuisle/esp/esp-idf/components/driver/include",
+                "/Users/juuisle/esp/esp-idf/components/esp_common/include",
+                "/Users/juuisle/esp/esp-idf/components/spi_flash/sim/stubs/freertos/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
